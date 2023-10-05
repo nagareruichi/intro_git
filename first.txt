@@ -1,2 +1,3 @@
 gitの練習
 git rm
+git diff
