@@ -5,4 +5,4 @@ git commit --amend
 <<<<<<< HEAD
 git merge
 コンフリクト
-
+pull request
