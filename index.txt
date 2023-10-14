@@ -3,3 +3,4 @@ git syatus
 git reset
 git commit --amend
 git merge
+コンフリクト
