@@ -2,4 +2,7 @@ git tutorial
 git syatus
 git reset
 git commit --amend
+<<<<<<< HEAD
 git merge
+コンフリクト
+pull requests
